@@ -1,4 +1,4 @@
-# Hospital Emergency Room Dashboard (Excel)
+# Hospital Emergency Room Dashboard 
 
 ## 📌 Project Overview
 
